@@ -25,7 +25,7 @@ namespace TicTacToeWF
             for (int i = 0, x = 0, y = 0; i < 9; i++)
             {
                 Button temp = new Button();
-                temp.Text = " ";
+                temp.Text = "";
                 temp.ForeColor = Color.White;
                 temp.Size = new Size(50, 50);
                 temp.Font = new Font("Arial", 15, FontStyle.Bold);
@@ -46,6 +46,16 @@ namespace TicTacToeWF
                         isX = true;
                     }
                     temp.Enabled = false;
+                    if (((buttons[0].Text == buttons[1].Text && buttons[1].Text == buttons[2].Text) && (buttons[0].Text != string.Empty)) || 
+                    ((buttons[3].Text == buttons[4].Text && buttons[4].Text == buttons[5].Text) && (buttons[3].Text != string.Empty)) ||
+                    ((buttons[6].Text == buttons[7].Text && buttons[7].Text == buttons[8].Text) && (buttons[6].Text != string.Empty)) ||
+                    ((buttons[0].Text == buttons[3].Text && buttons[3].Text == buttons[6].Text) && (buttons[0].Text != string.Empty)) ||
+                    ((buttons[1].Text == buttons[4].Text && buttons[4].Text == buttons[7].Text) && (buttons[1].Text != string.Empty)) ||
+                    ((buttons[2].Text == buttons[5].Text && buttons[5].Text == buttons[8].Text) && (buttons[2].Text != string.Empty)))
+                    {
+                        this.Text = "Game Over!";
+                        foreach (Button button in buttons) button.Enabled = false;
+                    }
                 };
                 buttons.Add(temp);
                 if (i == 2 || i == 5) x = 0;

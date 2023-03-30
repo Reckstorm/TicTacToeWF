@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\TicTacToeWF\TicTacToeWF\bin\Debug\net6.0-windows\TicTacToeWF.exe
+C:\Users\Admin\Desktop\TicTacToeWF\TicTacToeWF\bin\Debug\net6.0-windows\TicTacToeWF.deps.json
+C:\Users\Admin\Desktop\TicTacToeWF\TicTacToeWF\bin\Debug\net6.0-windows\TicTacToeWF.runtimeconfig.json
+C:\Users\Admin\Desktop\TicTacToeWF\TicTacToeWF\bin\Debug\net6.0-windows\TicTacToeWF.dll
+C:\Users\Admin\Desktop\TicTacToeWF\TicTacToeWF\bin\Debug\net6.0-windows\TicTacToeWF.pdb
+C:\Users\Admin\Desktop\TicTacToeWF\TicTacToeWF\obj\Debug\net6.0-windows\TicTacToeWF.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TicTacToeWF\TicTacToeWF\obj\Debug\net6.0-windows\TicTacToeWF.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TicTacToeWF\TicTacToeWF\obj\Debug\net6.0-windows\TicTacToeWF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TicTacToeWF\TicTacToeWF\obj\Debug\net6.0-windows\TicTacToeWF.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TicTacToeWF\TicTacToeWF\obj\Debug\net6.0-windows\TicTacToeWF.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TicTacToeWF\TicTacToeWF\obj\Debug\net6.0-windows\TicTacToeWF.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TicTacToeWF\TicTacToeWF\obj\Debug\net6.0-windows\TicTacToeWF.dll
+C:\Users\Admin\Desktop\TicTacToeWF\TicTacToeWF\obj\Debug\net6.0-windows\refint\TicTacToeWF.dll
+C:\Users\Admin\Desktop\TicTacToeWF\TicTacToeWF\obj\Debug\net6.0-windows\TicTacToeWF.pdb
+C:\Users\Admin\Desktop\TicTacToeWF\TicTacToeWF\obj\Debug\net6.0-windows\TicTacToeWF.genruntimeconfig.cache
+C:\Users\Admin\Desktop\TicTacToeWF\TicTacToeWF\obj\Debug\net6.0-windows\ref\TicTacToeWF.dll
+C:\Users\Admin\Desktop\TicTacToeWF\TicTacToeWF\obj\Debug\net6.0-windows\TicTacToeWF.TicTacToe.resources

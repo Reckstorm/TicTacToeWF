@@ -22,7 +22,7 @@ namespace TicTacToeWF
             List<Button> buttons = new List<Button>();
             bool isX = false;
 
-            for (int i = 0, x = 0, y = 0; i < 9; i++)
+            for (int i = 1, x = 0, y = 0; i < 10; i++)
             {
                 Button temp = new Button();
                 temp.Text = "";
@@ -58,9 +58,12 @@ namespace TicTacToeWF
                     }
                 };
                 buttons.Add(temp);
-                if (i == 2 || i == 5) x = 0;
-                else x += 50;
-                if (i == 2 || i == 5 || i == 8) y += 50;
+                x += 50;
+                if (i%3 == 0)
+                {
+                    x = 0;
+                    y += 50;
+                }
             }
 
             foreach (Button button in buttons) this.Controls.Add(button);
